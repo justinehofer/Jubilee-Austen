@@ -1,2 +1,3 @@
 .DS_Store
 Thumbs.db
+Screenshot_2020-06-25 Jubilee Austen Portfolio.png
